@@ -22,7 +22,7 @@ p = p.fit(data)
 p.get_distributions()
 
 # You can also plot distributions and your data to see this visualy. top=10 means that you want to plot top 10 distributions that match your data
-p.plot(top=10)
+p.plot(top=25)
 ```
 Output plot from [weight-height.csv](https://github.com/amirhr098/Distribution-Checker/files/9228716/weight-height.csv) DataFrame
 ![image](https://user-images.githubusercontent.com/95343201/182023160-48c8b978-6f71-433e-8f57-40965ed5ce35.png)
@@ -46,4 +46,6 @@ Output plot from [weight-height.csv](https://github.com/amirhr098/Distribution-C
             tukeylambda, uniform, vonmises, vonmises_line, wald, weibull_min
 ```
 ---
+[Package page in pypi.org](https://pypi.org/project/Distribution-Checker/)
+
 If any problem was founded, feel free to inform me :)
