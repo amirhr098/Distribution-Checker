@@ -46,10 +46,6 @@ Output plot from [weight-height.csv](https://github.com/amirhr098/Distribution-C
             tukeylambda, uniform, vonmises, vonmises_line, wald, weibull_min
 ```
 ---
-<<<<<<< HEAD
 [Package page in pypi.org](https://pypi.org/project/Distribution-Checker/)
 
 If any problem was founded, feel free to inform me :)
-=======
-If any problem was founded, feel free to inform me :)
->>>>>>> 969615077ba68c65b7e99503c702c93b494cbd92
