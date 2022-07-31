@@ -8,7 +8,7 @@ pip install Distribution_Checker
 
 ## Usage
 ```python
-from Distribution_Checker import Dist_Checker
+from distribution_checker import Dist_Checker
 import pandas as pd
 
 # Load sample dataset
