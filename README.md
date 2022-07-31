@@ -1,5 +1,5 @@
 # Distribution-Checker
-Python Distribution Checker for Pandas datas using Scipy package
+Python Distribution Checker for datas using Scipy package
 
 ## Installation
 ```bash
