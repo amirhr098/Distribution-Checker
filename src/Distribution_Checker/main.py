@@ -5,8 +5,9 @@ import matplotlib.pyplot as plt
 import warnings
 import matplotlib
 
-#Python Distribution Checker for Pandas datas using Scipy package
-#Amirhr098@yahoo.com
+# Python Distribution Checker for Pandas datas using Scipy package
+
+# Amirhr098@yahoo.com
 
 class Dist_Checker:
     def __init__(self, verbose=0):
