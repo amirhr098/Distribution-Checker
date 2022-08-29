@@ -1,4 +1,4 @@
-# Distribution-Checker
+# Distribution Checker
 Python Distribution Checker for datas using Scipy package
 
 ## Installation
